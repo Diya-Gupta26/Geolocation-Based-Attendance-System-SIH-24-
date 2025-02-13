@@ -6,7 +6,7 @@ The **Geodroids** team is developing an innovative attendance tracking app that 
 - **Bhumika: Bhumika-bhumikash02@gmaill.com**
 - **Diya:diyagupta26104@gmail.com**
 - **Jagriti: nidhisharma7241@gmail.com**
-- **Dushyan: dushyant8811@gmai.com**
+- **Dushyant: dushyant8811@gmai.com**
 - **Abhishek kumar: abhpinran98@gmail.com**
 - **Keshav**
 
