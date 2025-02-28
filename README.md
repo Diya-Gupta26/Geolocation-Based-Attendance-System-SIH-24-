@@ -4,7 +4,7 @@
 The **Geodroids** team is developing an innovative attendance tracking app that helps organizations streamline employee attendance using modern technology. This app ensures that attendance is tracked when users are inside a designated geofence, while also validating the user via facial recognition.
 - **Team members are:**
 - **Bhumika: Bhumika-bhumikash02@gmaill.com**
-- **Diya:diyagupta26104@gmail.com**
+- **Diya: diyagupta26104@gmail.com**
 - **Jagriti: nidhisharma7241@gmail.com**
 - **Dushyant: dushyant8811@gmai.com**
 - **Abhishek kumar: abhpinran98@gmail.com**
@@ -13,7 +13,7 @@ The **Geodroids** team is developing an innovative attendance tracking app that 
 ## **Features**
 - **Geofence-based Attendance**: Track employee attendance when they enter or exit a specific geofenced area using GPS, Wi-Fi, and cellular networks.
 - **Facial Recognition**: Validate the user’s identity through facial recognition technology to prevent unauthorized access.
-- **Multiple Location Tracking**: Supports multiple attendance tracking methods (GPS, Wi-Fi, cellular) to ensure accurate logging in various scenarios.
+- **Multiple Location Tracking**: Supports multiple attendance tracking methods (GPS, Wi-Fi, cellular triangulation) to ensure accurate logging in various scenarios.
 - **Automated Check-ins and Check-outs**: Automatically logs the check-in and check-out times as users move in and out of the geofence.
 - **Reports and Analytics**: Generate detailed attendance reports for administrators.
 
