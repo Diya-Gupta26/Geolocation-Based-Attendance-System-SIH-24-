@@ -1,4 +1,4 @@
 *.kts linguist-language=Kotlin
-echo "*.xml linguist-detectable" >> .gitattributes
+echo *.xml linguist-detectable 
 
 
