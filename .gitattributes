@@ -1,1 +1,3 @@
 *.kts linguist-language=Kotlin
+*.xml linguist-language=XML
+
